@@ -1,7 +1,5 @@
 # app.py
-#this osdsooo
-#tst
-#aavdiwo
+
 def add(a, b):
     return a + b
 
